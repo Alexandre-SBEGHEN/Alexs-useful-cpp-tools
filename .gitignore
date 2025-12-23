@@ -1,6 +1,9 @@
 #makefile
 makefile
 
+#programme principal
+main
+
 # Prerequisites
 *.d
 
