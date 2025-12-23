@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    // 6 / 2 * (1 + 2)
+    // 3 * 2
     alx_ast tree;
     tree.type = '*';
     tree.left = new alx_ast;
@@ -13,7 +13,7 @@ int main() {
     tree.left->right = nullptr;
     tree.right = new alx_ast;
     tree.right->type = 'n';
-    tree.right->val = 3;
+    tree.right->val = 2;
     tree.right->left = nullptr;
     tree.right->right = nullptr;
 
