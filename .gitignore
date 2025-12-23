@@ -2,7 +2,7 @@
 makefile
 
 #programme principal
-./main
+main
 
 # Prerequisites
 *.d
