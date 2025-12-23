@@ -4,7 +4,6 @@
  * 
  * @author Alexandre SBEGHEN
  * @date 23/12/2025
- * @version 0.1
  */
 #include <iostream>
 #include "../include/alx_math.h"

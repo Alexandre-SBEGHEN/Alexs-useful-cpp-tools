@@ -8,7 +8,6 @@ using namespace std;
  * 
  * @author Alexandre SBEGHEN
  * @date 23/12/2025
- * @version 0.1
  */
 
 /* Struct d'un arbre binaire AST */
